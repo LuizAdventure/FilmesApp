@@ -1,4 +1,4 @@
-package com.br.luizalberto.filmesflix.view
+package com.br.luizalberto.filmesflix.presenter
 
 import android.view.View
 import androidx.recyclerview.widget.RecyclerView
